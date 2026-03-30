@@ -4,22 +4,6 @@ I design and build modern web platforms focused on performance, structure, and l
 
 ---
 
-## Overview
-
-I design and build **modern web platforms** with a focus on:
-
-- performance  
-- structure  
-- long-term scalability  
-
-My work sits at the intersection of:
-
-**engineering × design × systems thinking**
-
-I don’t just ship websites — I build **foundations that hold up over time**.
-
----
-
 ## 📊 Selected Metrics
 
 Across production projects, my work consistently benchmarks at a high level:
