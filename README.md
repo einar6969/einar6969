@@ -37,43 +37,7 @@ Across production projects, my work consistently benchmarks at a high level:
 
 ---
 
-## 🚀 Selected Work
 
-### Sjónlag  
-*Modern digital platform for an eye clinic*
-
-- Structured medical content for **SEO + accessibility**  
-- Integrated **AI assistant** for patient interaction  
-- Custom booking system with **Supabase backend**  
-- Performance-first build (Lighthouse-focused)  
-
-**Result →** Clear patient journeys, strong search visibility, scalable foundation  
-
----
-
-### Konditorsamband Íslands  
-*National association website rebuild*
-
-- Complete **information architecture redesign**  
-- Clean **URL + sitemap + canonical strategy**  
-- Structured data (schema.org) implementation  
-- Designed as a **long-term content system**  
-
-**Result →** Improved discoverability, clarity, and maintainability  
-
----
-
-### Litljómi (Internal Systems)  
-*Building the infrastructure behind the studio*
-
-- Standardized **SEO system architecture**  
-- Reusable **Next.js + Tailwind foundations**  
-- Hosting & DNS strategy (Netlify, Cloudflare, ISNIC)  
-- Performance optimization workflows  
-
-**Result →** Faster delivery, higher quality, consistent standards  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -125,10 +89,10 @@ A system should be:
 
 ## 📫 Contact
 
-- 🌐 Website → https://litljomi.is  
-- 💼 LinkedIn → https://www.linkedin.com/in/einarzoega/  
-- 🐙 GitHub → https://github.com/einarzoega  
-- 📧 Email → einsi@litljomi.is  
+- 🌐 Website → [litljomi.is](https://litljomi.is)
+- 💼 LinkedIn → [in/einarzoega](https://www.linkedin.com/in/einarzoega/)
+- 🐙 GitHub → [@einar6969](https://github.com/einarzoega)
+- 📧 Email → [einsi@litljomi.is](mailto:einsi@litljomi.is)
 
 ---
 
