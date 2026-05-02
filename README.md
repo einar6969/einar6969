@@ -4,25 +4,6 @@ I design and build modern web platforms focused on performance, structure, and l
 
 ---
 
-## 📊 Selected Metrics
-
-Across production projects, my work consistently benchmarks at a high level:
-
-- 🏆 **Top 5% Lighthouse Best Practices (mobile & desktop)**  
-- 🏆 **Top 5% Lighthouse SEO (mobile & desktop)**  
-- 🚀 **Top 5% Performance (desktop)**  
-- ⚡ **Top 5% Time to Interactive (desktop)**  
-
-### Portfolio averages
-
-- 📱 Mobile → 71 Performance · 93 Accessibility · 100 Best Practices · 99 SEO  
-- 🖥️ Desktop → 93 Performance · 94 Accessibility · 100 Best Practices · 99 SEO  
-
-
----
-
-
-
 ## 🛠️ Tech Stack
 
 ### Frontend
